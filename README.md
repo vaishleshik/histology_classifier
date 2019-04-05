@@ -5,7 +5,9 @@ Okay this is a little ambitious. We want to develop something which can have a l
 
 ## Training data
 
-Training data is in the folder data_chec_resized, segregated in separate folders (Liver, Lung etc). All images resized to 256 x 192 px.
+Training data is in the folder data_chec_resized (in Gdrive), segregated in separate folders (Liver, Lung etc). All images resized to 256 x 192 px. A jupyter notebook is also in the folder. I have began experimenting with keras. The 'pool' folder contains all the images together (as backup). The 'dat.csv' file has imae filenames with labels.
+
+https://drive.google.com/open?id=1poViDl_vARIi2tfjhuhyMURYjr9_87KI 
 
 ## Objective
 
